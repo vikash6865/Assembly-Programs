@@ -1,7 +1,7 @@
 data SEGMENT
-  x   db  01h
-  y   db  02h
-  z   db  03h
+  x   db  05h
+  y   db  03h
+  z   db  02h
   res db  ?
 data ENDS
 
