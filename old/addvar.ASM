@@ -1,6 +1,6 @@
 data SEGMENT
-    x   db    03H
-    y   db    02H
+    x   db    05H ;VAriable DEclartion
+    y   db    04H
     res db    ?
 data ENDS
 
